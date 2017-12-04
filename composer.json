@@ -1,0 +1,16 @@
+{
+    "name": "lexxyungcarter/local-google-drive-uploader-demo",
+    "description": "A basic local and/or Google Drive API uploader example with code re-use via trait implementation example",
+    "keywords": ["laravel", "local", "uploader", "google drive", "google drive api", "drive"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Lexx YungCarter",
+            "email": "spencermainaa@gmail.com",
+            "homepage": "https://github.com/lexxyungcarter",
+            "role": "Developer"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {}
+}
